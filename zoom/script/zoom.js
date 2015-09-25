@@ -1,6 +1,3 @@
-/**
- * Created by Home on 2015/9/23.
- */
 var t;
 var windowView;
 var isRight = true;
