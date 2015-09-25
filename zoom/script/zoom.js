@@ -5,6 +5,7 @@ var t;
 var windowView;
 var isRight = true;
 var speedtime = 10;
+var speed = 2;
 
 $(document).ready(function () {
 
